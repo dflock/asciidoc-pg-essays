@@ -1,0 +1,37 @@
+header,
+#content,
+section.footnotes,
+footer {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.15rem;
+  line-height: 1.4;
+
+  margin-left: 4rem;
+  max-width: 65ch;
+  margin-right: auto;
+
+  color: #111;
+}
+
+h1 {
+  font-family: raleway_modifiedbold, sans-serif;
+  font-size: 2.2em;
+  letter-spacing: 0.04rem;
+
+  font-style: normal;
+  font-weight: 700;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: normal;
+
+  line-height: 1.1;
+  color: rgb(121, 43, 43);
+}
+
+div.details {
+  font-style: italic;
+  color: #555;
+}
+
+footer {
+  font-size: 0.8em;
+}
